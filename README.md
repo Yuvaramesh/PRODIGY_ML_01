@@ -37,6 +37,8 @@ pip install pandas numpy scikit-learn
 
 ## Results
 The linear regression model achieves a mean squared error of X on the test set, indicating that it performs reasonably well in predicting house prices based on the given features.
+## Clone MY Project
+https://github.com/Yuvaramesh/PRODIGY_ML_01.git
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
